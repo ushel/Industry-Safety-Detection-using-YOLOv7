@@ -48,4 +48,4 @@ thop # FLOPs computation
 #roboflow
 
 #Local packages
--e .
+-e .  #setup file installation
